@@ -1,4 +1,4 @@
-# Image-to-ASCII
+# [Image-to-ASCII](https://github.com/viduxsh/Image-to-ASCII)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/viduxsh/Image-to-ASCII/blob/main/LICENSE)
 
