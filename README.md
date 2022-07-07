@@ -1,5 +1,5 @@
-# [Image-to-ASCII](https://github.com/viduxsh/Image-to-ASCII)
+# [image-to-ascii](https://github.com/viduxsh/image-to-ascii)
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/viduxsh/Image-to-ASCII/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/viduxsh/image-to-ascii/blob/main/LICENSE)
 
  A simple python script that converts image into ascii art.
